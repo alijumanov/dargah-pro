@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea2ff4ab.css",
+    "main.js": "/static/js/main.b548a190.js",
+    "static/media/mulish700.ttf": "/static/media/mulish700.84c15758a512288dca5b.ttf",
+    "static/media/mulish400.ttf": "/static/media/mulish400.e497fc540939821b16a0.ttf",
+    "static/media/feedback1.webp": "/static/media/feedback1.3bef8a0058d42e8d1eb5.webp",
+    "static/media/person1.webp": "/static/media/person1.80da05bdaa00f51d51f1.webp",
+    "static/media/feedback2.webp": "/static/media/feedback2.2422a4737532864e62b4.webp",
+    "static/media/person.webp": "/static/media/person.acc24d86ab829ed2cb8b.webp",
+    "static/media/person2.webp": "/static/media/person2.043492d10de86351d8e5.webp",
+    "static/media/heart.webp": "/static/media/heart.3ddc71840a524fbed0e7.webp",
+    "static/media/file.webp": "/static/media/file.9167e9eda45b87684df9.webp",
+    "static/media/logo1.webp": "/static/media/logo1.f2df6a0d2124689d4feb.webp",
+    "static/media/logo2.webp": "/static/media/logo2.6b34351cd39fa5f6a4c1.webp",
+    "static/media/uzum.webp": "/static/media/uzum.146c7f5885908449f333.webp",
+    "static/media/comment1.webp": "/static/media/comment1.79d93858b87903ddf15a.webp",
+    "static/media/comment2.webp": "/static/media/comment2.5e884ed7ee5f6fde5030.webp",
+    "static/media/playbtn.webp": "/static/media/playbtn.b546201b42f602a248bc.webp",
+    "static/media/adv3.webp": "/static/media/adv3.8ba09b798faa04cf4ea4.webp",
+    "static/media/adv2.webp": "/static/media/adv2.2ab2de09bff2701305ab.webp",
+    "static/media/icon2.svg": "/static/media/icon2.7ac1216f15912895bbc5cd0694676458.svg",
+    "static/media/payme.webp": "/static/media/payme.21a38e29fa02cd671fe3.webp",
+    "static/media/adv1.webp": "/static/media/adv1.817fa0b68e9348ab2e30.webp",
+    "static/media/icon3.svg": "/static/media/icon3.b1174ee9533d14e08f16137479fa1470.svg",
+    "index.html": "/index.html",
+    "static/media/right-arrow.svg": "/static/media/right-arrow.74bd4da4b6d10b6e0282.svg",
+    "static/media/icon1.svg": "/static/media/icon1.097ae7637595b4b81140293c264e220c.svg",
+    "static/media/chevron.svg": "/static/media/chevron.e085eed3b6150220b09941c5d77da7e5.svg",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.ea2ff4ab.css.map": "/static/css/main.ea2ff4ab.css.map",
+    "main.b548a190.js.map": "/static/js/main.b548a190.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea2ff4ab.css",
+    "static/js/main.b548a190.js"
+  ]
+}
